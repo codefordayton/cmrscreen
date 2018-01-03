@@ -1,4 +1,33 @@
 {
+  "automobile-related offenses": [
+    {
+      "name": "Tampering with an odometer"
+    },
+    {
+      "name": "Knowingly offering to sell a car whose odometer was tampered with"
+    },
+    {
+      "name": "Sale or possession of a master key designed to fit more than one vehicle"
+    },
+    {
+      "name": "Offenses with purpose to conceal or destroy identity of car or its parts"
+    },
+    {
+      "name": "DUI"
+    },
+    {
+      "name": "Driving under suspension related to a DUI or refusal to take breathalyzer/chemical test"
+    },
+    {
+      "name": "Street racing"
+    },
+    {
+      "name": "All types of hit-and-runs"
+    }
+  ],
+  "first or second degree felony": {
+    "name": "any"
+  },
   "offense of violence": [
     {
       "code": "2903.01",
@@ -210,5 +239,14 @@
       "asterisk": null,
       "name": "Endangering children"
     }
-  ]
+  ],
+  "first degree misdemeanor or felony offense where the victim was under 18 years old except for\nnon-support of dependents (Revised Code \u00a7 2919.21; this offense became sealable under SB 337": {
+    "name": "any"
+  },
+  "sexual offense": {
+    "name": "any"
+  },
+  "offense with a mandatory prison term": {
+    "name": "any"
+  }
 }
