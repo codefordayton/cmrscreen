@@ -1,9 +1,10 @@
 # Clear My Record Screener
-Quick web application to pre-screen Ohio Residents for eligibility for the
-clear my record program.
+Quick web application to help Ohio residents determine if their criminal records are eligible for expungement, which will help them improve their employability. 
+
 
 ## Issues
 https://github.com/codefordayton/cmrscreen/issues
+
 
 ## Develop
 Make sure you have a newer version of [Node.js](https://nodejs.org/en/) installed.
