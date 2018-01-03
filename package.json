@@ -13,6 +13,8 @@
     "start": "npm-run-all --parallel start:dev watch:sass",
     "start:dev": "react-scripts start",
     "build": "react-scripts build",
+    "build:prod": "npm run build --prod",
+    "start:prod": "serve -s build",
     "sass": "node-sass --source-map true --include-path ./src --include-path node_modules ./src/index.scss ./public/styles/bundle.css",
     "postsass": "npm-run-all --parallel runpostcss copy:uswds",
     "runpostcss": "postcss public/styles/bundle.css -c postcss.config.js -o public/styles/bundle.min.css",
