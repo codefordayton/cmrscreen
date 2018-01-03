@@ -81,3 +81,4 @@ yarn-error.log*
 
 package-lock.json
 public/styles/*
+public/fonts/*
